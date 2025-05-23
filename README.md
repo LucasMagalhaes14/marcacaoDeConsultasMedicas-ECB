@@ -1,0 +1,1 @@
+configuração CORS adicionada ao SecurityConfig
